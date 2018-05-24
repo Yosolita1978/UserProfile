@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Cristina Rodriguez Profile</string>
+    <string name="name">Cristina Rodriguez</string>
+    <string name="info">Information</string>
+    <string name="contact">Contact</string>
+    <string name="address">Seattle, WA</string>
+    <string name="personal">I am a former journalist that transitioned into a career in full-stack software engineering.</string>
+    <string name="now">I\'m a 2018 recipient of the Grow with Google Challenge Scholarship to the Android Basics Nanodegree </string>
+    <string name="hobbies">My hobbies are bicycling around the Great Area of Seattle and building chatbots on different platforms </string>
+
+    <string name="email">yosola@gmail.com</string>
+    <string name="landing">http://yosola.co/</string>
+    <string name="twitter">yosola</string>
+    <string name="urltwitter">https://twitter.com/yosola</string>
 </resources>

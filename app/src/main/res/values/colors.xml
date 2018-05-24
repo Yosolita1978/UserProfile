@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#004d40</color>
+    <color name="colorPrimaryDark">#00251a</color>
+    <color name="colorAccent">#ffee58</color>
+    <color name="text">#000000</color>
+    <color name="textPrimary">#ffffff</color>
+    <color name="solidCircle">#ffff8b</color>
+    <color name="grey">#e5e5e5</color>
+    <color name="startgrad">#004d40</color>
+    <color name="endgrad">#c9bc1f</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
 </resources>
