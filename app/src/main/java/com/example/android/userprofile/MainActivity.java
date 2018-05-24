@@ -88,10 +88,8 @@ public class MainActivity extends AppCompatActivity {
 
         String stringUserName = getString(R.string.name);
 
-
-        Intent intent = new Intent(Intent.ACTION_SENDTO, Uri.fromParts(
-                "mailto","yosola@gmail.com", null));
-        intent.setData(Uri.parse("mailto:")); // only email apps should handle this
+        Intent intent = new Intent(Intent.ACTION_SENDTO);
+        intent.setData(Uri.parse("mailto:yosola@gmail.com")); // only email apps should handle this
         intent.putExtra(Intent.EXTRA_SUBJECT, "Contact to " + stringUserName);
         if (intent.resolveActivity(getPackageManager()) != null) {
             startActivity(intent);
